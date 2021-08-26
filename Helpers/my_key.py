@@ -1,1 +1,0 @@
-key = 'https://liuboukavalenka_gClwjA:xbYgmDgYkgxPmDSQpgzS@hub-cloud.browserstack.com/wd/hub'
